@@ -1,5 +1,7 @@
 class MasterCode
 {
+  new code
+
   ########
   ########
 }
