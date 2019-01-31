@@ -3,6 +3,12 @@ class MasterCode
   ########
   ########
 }
+class BranchCode
+{
+  -------------
+  -------------
+  -------------
+}
 class Demo
 {
   void setData()
