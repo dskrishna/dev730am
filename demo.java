@@ -1,3 +1,8 @@
+class MasterCode
+{
+  ########
+  ########
+}
 class Demo
 {
   void setData()
