@@ -1,5 +1,9 @@
 class Demo
 {
+  void setData()
+  {
+     ......
+  }
   void getData()
   {
       ......
